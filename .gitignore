@@ -1,2 +1,6 @@
 *~
-software/.anjuta*
+software/.project
+software/.classpath
+software/.settings/*
+software/target/*
+eclipse-ws/*
